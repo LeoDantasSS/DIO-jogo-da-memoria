@@ -4,7 +4,7 @@
 <nav>
           <a href="#Technologies">Tecnologias </a>|
           <a href="#Project">Projeto </a>|
-          <a href="#licence">Licença </a>
+          <a href="#license">Licença </a>
         </nav>
 </div>
 
