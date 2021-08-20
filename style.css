@@ -30,10 +30,20 @@ body {
   border-bottom-right-radius: 100%;
 }
 
+.blue:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+}
+
 .red {
   grid-area: vermelho;
   background-color: red;
   border-top-right-radius: 100%;
+}
+
+.red:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0px 0px 20px rgb(247, 0, 255);
 }
 
 .yellow {
@@ -42,10 +52,20 @@ body {
   border-bottom-left-radius: 100%;
 }
 
+.yellow:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+}
+
 .green {
   grid-area: verde;
   background-color: green;
   border-top-left-radius: 100%;
+}
+
+.green:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0px 0px 20px rgb(247, 0, 255);
 }
 
 .selected {
