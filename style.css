@@ -32,7 +32,7 @@ body {
 
 .blue:hover {
   transform: translateY(-1.5px);
-  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+  box-shadow: 0px 0px 30px rgb(247, 0, 255);
 }
 
 .red {
@@ -43,7 +43,7 @@ body {
 
 .red:hover {
   transform: translateY(-1.5px);
-  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+  box-shadow: 0px 0px 30px rgb(247, 0, 255);
 }
 
 .yellow {
@@ -54,7 +54,7 @@ body {
 
 .yellow:hover {
   transform: translateY(-1.5px);
-  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+  box-shadow: 0px 0px 30px rgb(247, 0, 255);
 }
 
 .green {
@@ -65,7 +65,7 @@ body {
 
 .green:hover {
   transform: translateY(-1.5px);
-  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+  box-shadow: 0px 0px 30px rgb(247, 0, 255);
 }
 
 .selected {
@@ -75,5 +75,5 @@ body {
 
 .selected:hover {
   transform: translateY(-1.5px);
-  box-shadow: 0px 0px 20px rgb(247, 0, 255);
+  box-shadow: 0px 20px 30px rgb(247, 0, 255);
 }
